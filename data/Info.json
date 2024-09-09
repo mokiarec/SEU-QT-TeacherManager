@@ -1,0 +1,192 @@
+[
+    {
+        "BirthDate": "周四 10月 7 2004",
+        "ClassCollection": {
+            "ClassName": "恋爱心理学",
+            "ClassNumber": "",
+            "ClassPhase": "2023春季学期 ",
+            "ClassScore": 32,
+            "ClassSite": "恋爱心理学",
+            "ClassTech": "G53233",
+            "ClassTime": 32
+        },
+        "Education": "本科",
+        "Marriage": "已婚",
+        "Name": "skx",
+        "Number": 20,
+        "Profession": "高级教师",
+        "Sex": "女",
+        "Wage": 8000
+    },
+    {
+        "BirthDate": "周日 2月 20 2005",
+        "ClassCollection": {
+            "ClassName": "程序语言与设计",
+            "ClassNumber": "",
+            "ClassPhase": "2024秋季学期",
+            "ClassScore": 3,
+            "ClassSite": "程序语言与设计",
+            "ClassTech": "G53231",
+            "ClassTime": 64
+        },
+        "Education": "博士研究生",
+        "Marriage": "已婚",
+        "Name": "mky",
+        "Number": 26,
+        "Profession": "正高级教师",
+        "Sex": "男",
+        "Wage": 10000
+    },
+    {
+        "BirthDate": "周五 6月 1 1990",
+        "ClassCollection": {
+            "ClassName": "学科导论",
+            "ClassNumber": "",
+            "ClassPhase": "2023秋季学期",
+            "ClassScore": 1,
+            "ClassSite": "学科导论",
+            "ClassTech": "571235",
+            "ClassTime": 16
+        },
+        "Education": "硕士研究生",
+        "Marriage": "未婚",
+        "Name": "hly",
+        "Number": 12,
+        "Profession": "二级教师",
+        "Sex": "男",
+        "Wage": 3200
+    },
+    {
+        "BirthDate": "周六 1月 1 2000",
+        "ClassCollection": {
+            "ClassName": "",
+            "ClassNumber": "",
+            "ClassPhase": "",
+            "ClassScore": 1.5324249261533812e+231,
+            "ClassSite": "",
+            "ClassTech": "",
+            "ClassTime": 14865800
+        },
+        "Education": "未知",
+        "Marriage": "未知",
+        "Name": "",
+        "Number": 0,
+        "Profession": "未知",
+        "Sex": "未知",
+        "Wage": 0
+    },
+    {
+        "BirthDate": "周一 11月 28 1966",
+        "ClassCollection": {
+            "ClassName": "",
+            "ClassNumber": "",
+            "ClassPhase": "",
+            "ClassScore": 4.38082060170105e-237,
+            "ClassSite": "",
+            "ClassTech": "",
+            "ClassTime": 0
+        },
+        "Education": "硕士研究生",
+        "Marriage": "未婚",
+        "Name": "RYC",
+        "Number": 18861,
+        "Profession": "三级教师",
+        "Sex": "女",
+        "Wage": 7638
+    },
+    {
+        "BirthDate": "周五 10月 23 1981",
+        "ClassCollection": {
+            "ClassName": "",
+            "ClassNumber": "",
+            "ClassPhase": "",
+            "ClassScore": 4.38082060170105e-237,
+            "ClassSite": "",
+            "ClassTech": "",
+            "ClassTime": 0
+        },
+        "Education": "博士研究生",
+        "Marriage": "已婚",
+        "Name": "FNO",
+        "Number": 59221,
+        "Profession": "正高级教师",
+        "Sex": "男",
+        "Wage": 11375
+    },
+    {
+        "BirthDate": "周五 7月 28 1961",
+        "ClassCollection": {
+            "ClassName": "",
+            "ClassNumber": "",
+            "ClassPhase": "",
+            "ClassScore": 4.38082060170105e-237,
+            "ClassSite": "",
+            "ClassTech": "",
+            "ClassTime": 0
+        },
+        "Education": "本科",
+        "Marriage": "已婚",
+        "Name": "VMW",
+        "Number": 84984,
+        "Profession": "一级教师",
+        "Sex": "女",
+        "Wage": 4555
+    },
+    {
+        "BirthDate": "周三 6月 14 2000",
+        "ClassCollection": {
+            "ClassName": "",
+            "ClassNumber": "",
+            "ClassPhase": "",
+            "ClassScore": 32,
+            "ClassSite": "",
+            "ClassTech": "",
+            "ClassTime": 0
+        },
+        "Education": "专科",
+        "Marriage": "未婚",
+        "Name": "WUX",
+        "Number": 87220,
+        "Profession": "一级教师",
+        "Sex": "女",
+        "Wage": 16178
+    },
+    {
+        "BirthDate": "周一 8月 2 1976",
+        "ClassCollection": {
+            "ClassName": "",
+            "ClassNumber": "",
+            "ClassPhase": "",
+            "ClassScore": 4.38082060170105e-237,
+            "ClassSite": "",
+            "ClassTech": "",
+            "ClassTime": 0
+        },
+        "Education": "专科",
+        "Marriage": "已婚",
+        "Name": "QDL",
+        "Number": 70470,
+        "Profession": "正高级教师",
+        "Sex": "男",
+        "Wage": 13941
+    },
+    {
+        "BirthDate": "周六 1月 1 2000",
+        "ClassCollection": {
+            "ClassName": "",
+            "ClassNumber": "",
+            "ClassPhase": "",
+            "ClassScore": 0,
+            "ClassSite": "",
+            "ClassTech": "",
+            "ClassTime": 0
+        },
+        "Education": "未知",
+        "Marriage": "未知",
+        "Name": "",
+        "Number": 0,
+        "Profession": "未知",
+        "Sex": "未知",
+        "Wage": 0
+    }
+]
