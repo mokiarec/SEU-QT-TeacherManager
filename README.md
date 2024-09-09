@@ -51,6 +51,12 @@ MyThread.h					子线程类
 
 Account.h					账户类
 
+### 需求文档
+：补充一下
+
+![无法播放](https://github.com/mokiarec/SEU-QT-TeacherManager/blob/master/img/%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3.png)
+
 ### 联系作者
 QQ：1447666272
+
 欢迎参与完善和更新嗷~
